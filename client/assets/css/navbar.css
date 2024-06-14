@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #f7f7f7;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+    justify-content: space-between;
+    background: #000550;
+    color: white;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
